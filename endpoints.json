@@ -1,0 +1,15 @@
+[
+    { "region": "br",     "endpoint": "br.api.pvp.net"     },
+    { "region": "eune",   "endpoint": "eune.api.pvp.net"   },
+    { "region": "euw",    "endpoint": "euw.api.pvp.net"    },
+    { "region": "jp",     "endpoint": "jp.api.pvp.net"     },
+    { "region": "kr",     "endpoint": "kr.api.pvp.net"     },
+    { "region": "lan",    "endpoint": "lan.api.pvp.net"    },
+    { "region": "las",    "endpoint": "las.api.pvp.net"    },
+    { "region": "na",     "endpoint": "na.api.pvp.net"     },
+    { "region": "oce",    "endpoint": "oce.api.pvp.net"    },
+    { "region": "tr",     "endpoint": "tr.api.pvp.net"     },
+    { "region": "ru",     "endpoint": "ru.api.pvp.net"     },
+    { "region": "pbe",    "endpoint": "pbe.api.pvp.net"    },
+    { "region": "global", "endpoint": "global.api.pvp.net" }
+]

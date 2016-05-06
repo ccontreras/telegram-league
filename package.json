@@ -1,0 +1,25 @@
+{
+  "name": "telegram-league",
+  "version": "1.0.0",
+  "description": "Telegram bot for league of legends.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "lol",
+    "league",
+    "league",
+    "of",
+    "legends"
+  ],
+  "author": "Cesar Contreras <ccdl15c@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "riot-api-client": "^2.0.2",
+    "telegram-node-bot": "github:naltox/telegram-node-bot"
+  }
+}
