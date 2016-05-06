@@ -24,7 +24,6 @@ tg.controller('FreeToPlayController', ($) => {
     };
     
     tg.for('/free :region', ($) => {
-        
         let region = _.lowerCase($.query.region);
         let endpoint = getEndpoint(region);
         
